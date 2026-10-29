@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Portfolio!
 
 <!--
 **erinseagraves/erinseagraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a recent University of Georgia mathematics graduate who enjoys turning messy data into clear answers. I earned my B.S. in Mathematics with a minor in Computer Science and an Applied Data Science Certificate, and I passed the Society of Actuaries' Exam FM (Financial Mathematics) in June 2026. I'm now preparing for Exam P (Probability). 
+
+I'm interested in entry-level actuarial analyst, data analyst, and financial analyst roles where I can keep learning and work on problems that matter to the business. I'm based in Athens, Georgia, open to relocating, and comfortable with hybrid or remote work.
